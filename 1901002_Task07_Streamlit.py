@@ -47,7 +47,7 @@ Site : SUNDARBANS, BAGERHAT, Bangladesh''')
         """Forest Abode is a residence located in Bagerhat, near the Sundarbans. The form is conceptualized through two interconnected volumes and courtyards, blending indoor and outdoor spaces. Sloped roofs, skylights, and strategic openings optimize natural light and airflow, addressing the tropical climate. Water bodies and indoor greenery create relaxing zones, while the foyer connects the formal living, guest bedroom, and dining areas, ensuring spatial continuity with views oriented toward the southern river. The design integrates design elements, such as facade extensions for storage, bamboo screens reflecting local architectural heritage. The family living area features double-height bamboo screens for shading, adding both verticality and openness. A sculptural staircase leads to two upper-level bedrooms with green terraces overlooking the forest and river. Emphasizing climate responsiveness, ergonomics, and cultural context, the design offers a comfortable, natural living experience.
         """
     )
-    display_image("images/south elevation.png", "View from river", column_layout=1)
+    display_image("https://github.com/razin-123/1901002_Task07/tree/main/Images/south elevation.png", "View from river", column_layout=1)
 
 #Concept
 elif selected_section == "Concept":
